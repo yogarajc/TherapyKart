@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971730780588",
+    "project_id": "state-management-e4fd4",
+    "storage_bucket": "state-management-e4fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971730780588:android:a7ac3e934664f39813ba09",
+        "android_client_info": {
+          "package_name": "com.example.state_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971730780588-j4e3sgq58a7jap507ijbrq53qb4ao7ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHvtmoZ7IESYqbzCYmWhnndPXFU_6laqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971730780588-j4e3sgq58a7jap507ijbrq53qb4ao7ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
